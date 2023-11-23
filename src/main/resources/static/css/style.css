@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+    background-image: url(/futbolCinco/src/main/resources/static/images/imgbody2.jpeg);
+    background-size: cover;
+    background-position:50% 50%;
+    background-blend-mode: multiply;
+    background-attachment:scroll;
+}
+
+#menu li > a {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+#menu form > button{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.carousel-inner{
+    max-height: 25rem;
+}

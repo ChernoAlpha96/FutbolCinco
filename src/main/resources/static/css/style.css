@@ -3,11 +3,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
-    background-image: url(/futbolCinco/src/main/resources/static/images/imgbody2.jpeg);
-    background-size: cover;
-    background-position:50% 50%;
-    background-blend-mode: multiply;
-    background-attachment:scroll;
 }
 
 #menu li > a {
@@ -22,5 +17,13 @@ body{
 }
 
 .carousel-inner{
-    max-height: 25rem;
+    max-height: 35rem;
 }
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+  }
+
+ 
+

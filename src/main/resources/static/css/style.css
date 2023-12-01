@@ -20,6 +20,13 @@ body{
     max-height: 35rem;
 }
 
+form{
+    width: 50%;
+    margin: 0 auto;
+  }
+
+
+
 .footer-content {
     display: flex;
     justify-content: space-between;
